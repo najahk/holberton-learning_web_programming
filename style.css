@@ -1,11 +1,12 @@
 <div id="white_on_red">While writing on a red background.</div>
 <div style="background-color:red;color:white;"White writing on a red background.</div>
 
-body {
-  background-color: lightblue;
+#white_on_red {
+  background-color: red;
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: White;
+  margin-left: 50px;
 }
+#going_to_the_right
