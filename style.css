@@ -1,5 +1,2 @@
-<div id="white_on_red">Red is the new green.</div>
-body  {
-  background-color: red;
-  color: white;
-}
+<div id="white_on_red">While writing on a red background.</div>
+<div style="background-color:red;color:white;"White writing on a red background.</div>
